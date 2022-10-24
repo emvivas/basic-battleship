@@ -1,2 +1,2 @@
 # basicbattleship
-Juego de guerra naval desarrollado en Java.
+Battleship videogame developed in Java SE.
